@@ -16,7 +16,7 @@ from youtubesearchpython import VideosSearch
 from config import HNDLR, bot, call_py
 from MusicAndVideo.helpers.queues import QUEUE, add_to_queue, get_queue
 
-AMBILFOTO = ["https://telegra.ph/file/8a0c480cf8b0ede24f5f0.jpg"]
+AMBILFOTO = ["https://telegra.ph/file/30ce542770990ffaeeac6.jpg"]
 
 
 IMAGE_THUMBNAIL = random.choice(AMBILFOTO)
