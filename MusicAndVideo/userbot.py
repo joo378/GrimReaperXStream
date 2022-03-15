@@ -67,7 +67,7 @@ async def restart(client, m: Message):
 async def help(client, m: Message):
     await m.delete()
     HELP = f"""
-<b>👋 Hallo {m.from_user.mention}!
+<b>👋 ʜᴀʟʟᴏ {m.from_user.mention}!
 
 🛠 MENU BANTUAN
 
